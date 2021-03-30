@@ -1,0 +1,9 @@
+[submodule "ecommerce-checkout-frontend"]
+	path = ecommerce-checkout-frontend
+	url = https://github.com/hatanakadaniel/ecommerce-checkout-frontend.git
+[submodule "ecommerce-checkout-api"]
+	path = ecommerce-checkout-api
+	url = https://github.com/hatanakadaniel/ecommerce-checkout-api.git
+[submodule "ecommerce-payment-api"]
+	path = ecommerce-payment-api
+	url = https://github.com/hatanakadaniel/ecommerce-payment-api.git
